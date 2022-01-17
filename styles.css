@@ -1,0 +1,87 @@
+h1{
+    color: #40798c;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    text-transform: capitalize;
+        font-family: 'Source Serif Pro', serif;
+}
+
+h2{
+    color: #40798c;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: capitalize;
+    margin-top: 0;
+        font-family: 'Source Serif Pro', serif;
+}
+
+h3{
+    color: #40798c;
+    text-align: left;
+    font-size: 20px;
+        font-family: 'Source Serif Pro', serif;
+}
+
+h4{
+    color: #40798c;
+    text-align: right;
+    font-size: 15px;
+    margin: 0;
+    margin-right: 30px;
+}
+
+
+body{
+    background-color: #f6f1d1;
+    border: none;
+    color: #70a9a1;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+        font-family: 'Source Serif Pro', serif;
+    
+}
+
+select{
+    color: #70a9a1;
+        font-family: 'Source Serif Pro', serif;
+}
+
+button {
+	overflow: hidden;
+    background-color: #0b2027;
+	font-family: freight-display-pro, serif;
+	font-size: 1.15rem;
+	border-radius: 0.85rem;
+	color: #fff;
+    text-align: right;
+}
+
+.display{
+    color: #70a9a1;
+    font-size: 18px;
+    text-align: left;
+}
+
+.backtotop{
+    color: #70a9a1;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 30px;
+}
+
+.container{
+  overflow: hidden;
+  position: absolute;
+  width: 140%;
+  height: 100%;
+  display: flex;
+  justify-content: center; /*centers items on the line (the x-axis by default)*/
+  align-items: center; /*centers items on the cross-axis (y by default)*/
+}

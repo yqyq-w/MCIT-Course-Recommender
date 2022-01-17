@@ -1,0 +1,8 @@
+Collaborators: Huifang Ye, Yiqing Wang, Rachel Kong
+
+Project Name: MCIT Course Recommender
+
+Project Description: MCIT community is comprised of a cohort of students from multidisciplinary background who have diverse preferences for their future career plan. However, when it comes to course selection, they may be unsure what courses are relevant to their career objectives. This project is a course recommendation website that suggests a list of CIT or CIS (500 or above) courses based on users' preference. Users can select from a list of job titles and programming languages that they would like to explore. The website will then show a list of elective courses that fit those preferences. Javascript, CSS and HTML were used to create the website. The job roles and programming languages relevant to each course are manually filled in based on our judgment. Course descriptions are taken directly from the UPenn CIT and CIS websites. 
+
+Tech Stack: Javascript, HTML, CSS
+
