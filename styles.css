@@ -1,5 +1,5 @@
 h1{
-    color: #40798c;
+    color: #AE7E74;
     text-align: center;
     font-weight: bold;
     font-size: 70px;
@@ -8,7 +8,7 @@ h1{
 }
 
 h2{
-    color: #40798c;
+    color: #844C4B;
     text-align: left;
     font-weight: bold;
     font-size: 40px;
@@ -18,25 +18,33 @@ h2{
 }
 
 h3{
-    color: #40798c;
+    color: #844c4be5;
     text-align: left;
     font-size: 20px;
         font-family: 'Source Serif Pro', serif;
 }
 
 h4{
-    color: #40798c;
+    color: #8A8B61;
     text-align: right;
     font-size: 15px;
     margin: 0;
     margin-right: 30px;
 }
 
+legend{
+    color: #AE7E74;
+}
 
 body{
-    background-color: #f6f1d1;
+    background-color: #ebdbc3;
+    background-image: url('image2.jpg');
+    /* background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; */
+    /* background-size: 1000px 1000px; */
     border: none;
-    color: #70a9a1;
+    color: #AE7E74;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -49,31 +57,37 @@ body{
 }
 
 select{
-    color: #70a9a1;
-        font-family: 'Source Serif Pro', serif;
+    color: #AE8E89;
+    font-family: 'Source Serif Pro', serif;
+    	/* border-radius: 0.85rem; */
 }
 
 button {
 	overflow: hidden;
-    background-color: #0b2027;
+    background-color: #AE8E89;
 	font-family: freight-display-pro, serif;
 	font-size: 1.15rem;
 	border-radius: 0.85rem;
+    border-color: #AE8E89;
 	color: #fff;
     text-align: right;
 }
 
 .display{
-    color: #70a9a1;
+    color: rgba(110, 116, 146, 0.817);
     font-size: 18px;
     text-align: left;
 }
 
 .backtotop{
-    color: #70a9a1;
+    color: rgba(110, 116, 146, 0.817);
     font-size: 15px;
     text-align: right;
     margin-right: 30px;
+}
+
+.backtotop:link{
+    color: rgba(110, 116, 146, 0.817);
 }
 
 .container{
